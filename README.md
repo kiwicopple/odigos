@@ -22,24 +22,24 @@ If you find Odigos helpful, please ⭐ this repository to show your support!
 
 ## What is Odigos?
 
-Odigos is an open-source distributed tracing solution that simplifyes and improves observability for Kubernetes environments. It provides instant tracing capabilities without requiring any code changes to your applications.
+Odigos is an open-source distributed tracing solution that simplifies and improves observability for Kubernetes environments. It provides instant tracing capabilities without requiring any code changes to your applications.
 
 ## Key Features
 
-- **Code-Free Instrumentation** : Set up distributed tracing in minutes, eliminating manual code modifications.
-- **Multi-Language Support** : Works with Java, Python, .NET, Node.js, and Go applications.
-- **eBPF-Powered** : Utilizes eBPF technology for high-performance instrumentation of Go applications. eBPF-based instrumentation for Java, Python, and Node.js is available in the enterprise edition.
-- **OpenTelemetry Compatible** : Generates traces in OpenTelemetry format for broad tool compatibility.
-- **Vendor Agnostic** : Integrates with various monitoring solutions, avoiding vendor lock-in.
-- **Automatic Scaling** : Manages and scales OpenTelemetry collectors based on data volume.
-- **Opinionated Defaults** : Supplies common defaults and best practices out-of-the-box, requiring no deep knowledge of OpenTelemetry.
+- **Code-Free Instrumentation**: Set up distributed tracing in minutes, eliminating manual code modifications.
+- **Multi-Language Support**: Works with Java, Python, .NET, Node.js, and Go applications.
+- **eBPF-Powered**: Utilizes eBPF technology for high-performance instrumentation of Go applications. eBPF-based instrumentation for Java, Python, and Node.js is available in the enterprise edition.
+- **OpenTelemetry Compatible**: Generates traces in OpenTelemetry format for broad tool compatibility.
+- **Vendor Agnostic**: Integrates with various monitoring solutions, avoiding vendor lock-in.
+- **Automatic Scaling**: Manages and scales OpenTelemetry collectors based on data volume.
+- **Opinionated Defaults**: Supplies common defaults and best practices out-of-the-box, requiring no deep knowledge of OpenTelemetry.
 
 ## Why Choose Odigos
 
-1. **Simplicity** : Implement distributed tracing with minimal effort and complexity.
-2. **Performance** : Separates data recording and processing to minimize runtime impact.
-3. **Community-Backed** : With 3,000+ GitHub stars and a growing contributor base.
-4. **Expertise** : Created by multiple maintainers of OpenTelemetry, ensuring deep integration and alignment with industry standards.
+1. **Simplicity**: Implement distributed tracing with minimal effort and complexity.
+2. **Performance**: Separates data recording and processing to minimize runtime impact.
+3. **Community-Backed**: With 3,000+ GitHub stars and a growing contributor base.
+4. **Expertise**: Created by multiple maintainers of OpenTelemetry, ensuring deep integration and alignment with industry standards.
 
 Odigos empowers platform engineers, DevOps professionals, and SREs to enhance their observability strategies quickly and effectively. It is an ideal solution for modern cloud-native environments, combining simplicity, performance, and industry expertise.
 
